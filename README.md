@@ -378,6 +378,6 @@ Backend Developer – Assignment Submission
 
 * GitHub: https://github.com/KESABA-BARIK
 * Email: [kesababarik007@gmail.com](mailto:kesababarik007@gmail.com)
-* Location: Chennai, India
+
 
 This project implements a dispatch load balancer that optimizes delivery order allocation to vehicles using priority-based assignment and Haversine distance calculations.
